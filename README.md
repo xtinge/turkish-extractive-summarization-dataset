@@ -77,11 +77,11 @@ To help you start with our datasets, we have provided a simple Python script, `t
 
 To execute the script, navigate to the `/scripts` directory and run:
 
-```bash
+```
 $ python tivial_model.py
 ```
 
-## Cite XTINGE Turkish Extractive Summarization Dataset
+## Cite XTINGE Turkish Extractive Summarization Dataset
 ```
 {
 
