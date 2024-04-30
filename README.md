@@ -83,7 +83,10 @@ $ python tivial_model.py
 
 ## Cite XTINGE Turkish Extractive Summarization Dataset
 ```
-{
-
+@inproceedings{xtinge_turkish_extractive,
+  title = {Extractive Summarization Data Sets Generated with Measurable Analyses},
+  author = {Demir, İrem and Küpçü, Emel and Küpçü, Alptekin},
+  booktitle = {Proceedings of the 32nd IEEE Conference on Signal Processing and Communications Applications},
+  year = {2024}
 }
 ```
